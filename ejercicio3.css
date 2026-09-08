@@ -1,0 +1,18 @@
+/* ¿por que no use js? es mas facil usar css para hacer hover y cambiar el color de la tarjeta, ademas de que es mas rapido y eficiente.
+
+*/
+.tarjeta {
+    background-color: #0ad1db80;
+    color: rgb(101, 101, 101);
+    border: none;
+    padding: 20px;
+    cursor: pointer;
+    text-align: center;
+    width: 300px;
+    margin: 100px auto;
+}
+.tarjeta:hover {
+    background-color: #003cff;
+    color: rgb(8, 8, 8);
+}
+
